@@ -9,9 +9,9 @@ This project was completed as part of Udacity's [Data Analyst Nanodegree](https:
 
 ## Data Origin
 - **2008.csv** - Main dataset downloaded from [RITA](http://stat-computing.org/dataexpo/2009/the-data.html)
-- **Airports.csv** - Supplementary [file with airport names](http://stat- computing.org/dataexpo/2009/supplemental-data.html)
+- **Airports.csv** - Supplementary [file with airport names](http://stat-computing.org/dataexpo/2009/supplemental-data.html)
 - **Carriers.csv** - Supplementary [file with carrier names](https://exploratory.io/data/kanaugust/9876993836892339) from
-- **Plane-data.csv** - Supplementary [file with plane manufacturers data](http://stat-computing.org/dataexpo/2009/supplemental- data.html)
+- **Plane-data.csv** - Supplementary [file with plane manufacturers data](http://stat-computing.org/dataexpo/2009/supplemental-data.html)
 - **FlighPaths2008.csv**, **FlighPaths2008_summary.csv** - Transformed **2008.csv** file to be rendered by Tableau in a way paths can be showed on a map (Dashboard7). Prepared by using [FlightPaths2008.ipynb](https://github.com/ksatola/US-Airline-Delay-Statistics/blob/master/FlightPaths2008.ipynb).
  
 ## Results
