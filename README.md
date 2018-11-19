@@ -15,7 +15,7 @@ This project was completed as part of Udacity's [Data Analyst Nanodegree](https:
 - **FlighPaths2008.csv**, **FlighPaths2008_summary.csv** - Transformed **2008.csv** file to be rendered by Tableau in a way paths can be showed on a map (Dashboard7). Prepared by using [FlightPaths2008.ipynb](https://github.com/ksatola/US-Airline-Delay-Statistics/blob/master/FlightPaths2008.ipynb).
  
 ## Results
-A set of insights into flight delays and cancellations in 2008 in the US as an [interactive, online Tableau presentation](https://public.tableau.com/profile/krzysztof5356#!/vizhome/fo008/Story1?publish=yes).
+A set of insights into flight delays and cancellations in 2008 in the US as an [interactive, online Tableau presentation](https://public.tableau.com/profile/krzysztof5356#!/vizhome/fo008/Story1?publish=yes). [A static, preview version](https://github.com/ksatola/US-Airline-Delay-Statistics/blob/master/The%20US%20Flight%20Odyssey%202008.pdf) is available in the PDF format.
 
 ## Tools
 - Tableau Desktop
