@@ -1,0 +1,5 @@
+*.html linguist-language="Jupyter Notebook"
+*.Rmd linguist-language=R
+*.py linguist-language=Python
+*.ipynb linguist-language="Tableau"
+*.twb linguist-language=Tableau
